@@ -45,7 +45,7 @@ For users who just want to use the app, download the APK from the releases page.
 
 ## Documentation
 
-Comprehensive documentation is available in the Document.md, explaining the Java code and methods used in the project.
+Comprehensive documentation is available in the [Document.md](https://github.com/AhmadZeina/Post-System-androidApp-/blob/74d5d86a19ccf8623703a2541e1102755b957fbc/Document.md), explaining the Java code and methods used in the project.
 
 --------------------------------------------------------------
 
