@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Post System</string>
+    <string name="post_hint">Enter your post here...</string>
+    <string name="save_button">Save</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    <string name="no_posts">No posts available</string>
+</resources>
