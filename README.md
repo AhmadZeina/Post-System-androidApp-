@@ -11,7 +11,7 @@ This project is an Android application developed using Android Studio Jellyfish 
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](Images folder/app Interface.jpg)
 ![Screenshot 2](images/screenshot2.png)
 
 ## Installation
