@@ -11,8 +11,8 @@ This project is an Android application developed using Android Studio Jellyfish 
 
 ## Screenshots
 
-![Screenshot 1]([Images folder/app Interface.jpg](https://github.com/AhmadZeina/Post-System-androidApp-/blob/f1a657319c5d6c7501b86118e42003a739a6bd88/Images%20folder/app%20Interface.jpg))
-![Screenshot 2](images/screenshot2.png)
+([Images folder/app Interface.jpg](https://github.com/AhmadZeina/Post-System-androidApp-/blob/f1a657319c5d6c7501b86118e42003a739a6bd88/Images%20folder/app%20Interface.jpg))
+
 
 ## Installation
 ### Prerequisites
