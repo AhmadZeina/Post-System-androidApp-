@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an Android application developed using Android Studio Jellyfish 2023 and Java. It allows users to create ,svae ,edit and delete posts. 
+This project is an Android application developed using Android Studio Jellyfish 2023 and Java. It allows users to create ,save ,edit and delete posts. 
 
 ## Features
 - create your own posts .
